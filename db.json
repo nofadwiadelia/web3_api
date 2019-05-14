@@ -1,0 +1,153 @@
+{"products" : 
+[{
+  "id": 1,
+  "product_name": "Cumin - Whole",
+  "price": "Yuan Renminbi",
+  "stock": 39
+}, {
+  "id": 2,
+  "product_name": "Tomatoes - Vine Ripe, Red",
+  "price": "Real",
+  "stock": 55
+}, {
+  "id": 3,
+  "product_name": "Pail With Metal Handle 16l White",
+  "price": "Colon",
+  "stock": 41
+}, {
+  "id": 4,
+  "product_name": "Eggwhite Frozen",
+  "price": "Real",
+  "stock": 16
+}, {
+  "id": 5,
+  "product_name": "Tea - Herbal I Love Lemon",
+  "price": "Yen",
+  "stock": 97
+}, {
+  "id": 6,
+  "product_name": "Capicola - Hot",
+  "price": "Yuan Renminbi",
+  "stock": 60
+}, {
+  "id": 7,
+  "product_name": "Milk - Homo",
+  "price": "Yen",
+  "stock": 24
+}, {
+  "id": 8,
+  "product_name": "Wine - Zinfandel California 2002",
+  "price": "Yuan Renminbi",
+  "stock": 60
+}, {
+  "id": 9,
+  "product_name": "Wine - Ej Gallo Sierra Valley",
+  "price": "Yuan Renminbi",
+  "stock": 67
+}, {
+  "id": 10,
+  "product_name": "Cheese - Feta",
+  "price": "Dollar",
+  "stock": 66
+}, {
+  "id": 11,
+  "product_name": "Jolt Cola - Red Eye",
+  "price": "Yuan Renminbi",
+  "stock": 19
+}, {
+  "id": 12,
+  "product_name": "Tart Shells - Barquettes, Savory",
+  "price": "Rupiah",
+  "stock": 5
+}, {
+  "id": 13,
+  "product_name": "Onions - Spanish",
+  "price": "Peso",
+  "stock": 49
+}, {
+  "id": 14,
+  "product_name": "Cabbage - Savoy",
+  "price": "Rupiah",
+  "stock": 7
+}, {
+  "id": 15,
+  "product_name": "Ice Cream Bar - Hageen Daz To",
+  "price": "Yuan Renminbi",
+  "stock": 14
+}, {
+  "id": 16,
+  "product_name": "Pepper - Yellow Bell",
+  "price": "Krona",
+  "stock": 58
+}, {
+  "id": 17,
+  "product_name": "Pumpkin",
+  "price": "Ruble",
+  "stock": 17
+}, {
+  "id": 18,
+  "product_name": "Bread - Corn Muffaleta Onion",
+  "price": "Real",
+  "stock": 9
+}, {
+  "id": 19,
+  "product_name": "Bread Crumbs - Panko",
+  "price": "Euro",
+  "stock": 99
+}, {
+  "id": 20,
+  "product_name": "Veal - Loin",
+  "price": "Shekel",
+  "stock": 58
+}, {
+  "id": 21,
+  "product_name": "Chicken - Tenderloin",
+  "price": "Sol",
+  "stock": 100
+}, {
+  "id": 22,
+  "product_name": "Pie Filling - Pumpkin",
+  "price": "Dollar",
+  "stock": 95
+}, {
+  "id": 23,
+  "product_name": "Sauce - White, Mix",
+  "price": "Yuan Renminbi",
+  "stock": 56
+}, {
+  "id": 24,
+  "product_name": "Cheese - Parmigiano Reggiano",
+  "price": "Yuan Renminbi",
+  "stock": 61
+}, {
+  "id": 25,
+  "product_name": "Lettuce - Lolla Rosa",
+  "price": "Dollar",
+  "stock": 78
+}, {
+  "id": 26,
+  "product_name": "Shrimp - Baby, Warm Water",
+  "price": "Yuan Renminbi",
+  "stock": 86
+}, {
+  "id": 27,
+  "product_name": "Snapple Lemon Tea",
+  "price": "Yen",
+  "stock": 29
+}, {
+  "id": 28,
+  "product_name": "Bread Roll Foccacia",
+  "price": "Zloty",
+  "stock": 51
+}, {
+  "id": 29,
+  "product_name": "Dry Ice",
+  "price": "Rupiah",
+  "stock": 17
+}, {
+  "id": 30,
+  "product_name": "Oil - Coconut",
+  "price": "Zloty",
+  "stock": 37
+}]
+}
